@@ -1,0 +1,24 @@
+*declarar variavel:
+calma=s
+var1=5
+var2=2
+var3=0
+
+OQUE NÂO PODE:
+
+var 'espaço' 2=x
+semprejnt=x
+campovisao=x
+campo-de-visao=x
+
+
+*variavel
+caneta_azul=S
+caneta_preta=10
+
+
+o SOMA E SO PARA GUADAR AS COISAS
+
+SOMA=RELOGIO=CANETAAZUL+CANETAPRETA
+
+E DEPOIS O PRINT
